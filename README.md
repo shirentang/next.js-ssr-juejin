@@ -36,10 +36,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-
-## 地址保存规范
-1、公用的图片（如：ico，掘金的logo）放在publi下，各自模块的图片放在src/common/images内
-2、首页在src/app/page.js内，模块（如：footer，layout，navbar之类的 js和scss文件放在compents下新建各部分的文件夹
-
-后续待补充，文件的存放尽量和演示demo的文件存放相同。
